@@ -1,6 +1,6 @@
 {
   "name": "Jared McCain",
-  "label": "Optional Label",
+  "label": "Computer Engineer",
   "image_path": "img/default-image.png",
   "contact": {
     "email": "jaredmccain.jam@gmail.com",
@@ -28,10 +28,10 @@
   ],
   "work_experience": [
     {
-      "company": "Latest Job",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
+      "company": "2020 Companies",
+      "position": "Samsung Experience Consultant",
+      "url": "https://www.2020companies.com/",
+      "start_date": "03/16/2025",
       "end_date": "Present",
       "summary": "Short summary about present job and what the position entails",
       "highlights": [
@@ -41,11 +41,11 @@
       ]
     },
     {
-      "company": "Previous Job",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
+      "company": "Actionlink",
+      "position": "Intel Promoter",
+      "url": "https://actionlink.com/",
+      "start_date": "02/18/2023",
+      "end_date": "02/02/2025",
       "summary": "Short summary about previous job and what that position entailed",
       "highlights": [
         "First Duty of Previous Job",
@@ -56,9 +56,9 @@
   ],
   "projects": [
     {
-      "title": "My First Project",
+      "title": "Trading Card Game Application",
       "summary": "Short summary about my first project",
-      "url": "https://sample.com",
+      "url": "https://github.com/jaredthecarrot/TCGApp.com",
       "highlights": [
         "First Highlight of Project One",
         "Second Highlight of Project One",
@@ -80,9 +80,9 @@
       ]
     },
     {
-      "title": "My Second Project",
+      "title": "Social Media Website",
       "summary": "Short summary about my second project",
-      "url": "https://sample.com",
+      "url": "https://github.com/jaredthecarrot/Software-Engineering-Project",
       "highlights": [
         "First Highlight of Project Two",
         "Second Highlight of Project Two",
@@ -134,27 +134,16 @@
   ],
   "education": [
     {
-      "institution": "Institution One",
-      "location": "Institution One Location",
-      "url": "https://sample.com",
+      "institution": "Texas A&M International University",
+      "location": "Laredo, TX, United States",
+      "url": "https://tamiu.edu",
       "degrees": [
-        "Master of Science in Computer Science",
-        "Minor in Mathematics"
+        "Bachelor of Science in Computer Engineering"
       ],
-      "honors": ["Outstanding Student Award", "Dean's List"],
-      "gpa_cumulative": "3.5",
-      "gpa_major": "4.0",
-      "graduation_date": "01/01/2005"
-    },
-    {
-      "institution": "Institution Two",
-      "location": "Institution Two Location",
-      "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Physics"],
-      "honors": ["Scholarship Recipient"],
-      "gpa_cumulative": "3.2",
-      "gpa_major": "3.9",
-      "graduation_date": "01/01/2000"
+      "honors": ["---", "---"],
+      "gpa_cumulative": "3.7",
+      "gpa_major": "3.8",
+      "graduation_date": "05/15/2025"
     }
   ],
   "skills": [
@@ -205,20 +194,20 @@
       "fluency": "Native speaker"
     },
     {
-      "language": "American Sign Language",
-      "fluency": "Professional Working Proficiency"
+      "language": "Spanish",
+      "fluency": "Limited working proficiency"
     }
   ],
   "references": [
     {
-      "name": "Person One",
+      "name": "David Strong",
       "relation": "Previous Boss",
-      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
+      "reference": "David appreciated my Intel sales for the computer department."
     },
     {
-      "name": "Person Two",
-      "relation": "Previous Coworker",
-      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
+      "name": "Steffanie Frybarger",
+      "relation": "Previous Boss",
+      "reference": "Steffanie appreciated my mobile sales for Samsung devices."
     }
   ]
 }
