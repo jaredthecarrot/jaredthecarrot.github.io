@@ -1,68 +1,70 @@
 {
-  "name": "Your Name",
-  "label": "Optional Label",
-  "image_path": "img/default-image.png",
+  "name": "Jared McCain",
+  "label": "Software Engineer",
+  "image_path": "img/portfolio-profile-pic.jpg",
   "contact": {
-    "email": "FirstLast@Sample.com",
-    "phone": "123-456-7890",
-    "location": "City, State, Country"
+    "email": "jaredmccain.jam@gmail.com",
+    "phone": "956-612-3444",
+    "location": "Linthicum Heights, MD, United States"
   },
-  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
+
+  "summary": "A recent undergrad software engineer that likes DevOps and networking. In my free time I enjoy guitar, video games, books, parks, and my cat Syrax.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
-      "label": "Personal Website",
-      "url": "https://sample.com",
+      "label": "This portfolio",
+      "url": "https://jaredthecarrot@github.io",
       "svg_path": "img/globe.svg"
     },
     {
-      "label": "First Social",
-      "url": "https://sample.com",
+      "label": "LinkedIn",
+      "url": "https://linkedin/in/jaredantoinemccain",
       "svg_path": "img/linkedin.svg"
     },
     {
-      "label": "Second Social",
-      "url": "https://sample.com",
+      "label": "GitHub",
+      "url": "https://www.github.com/jaredthecarrot",
       "svg_path": "img/github.svg"
     }
   ],
   "work_experience": [
     {
-      "company": "Latest Job",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
+      "company": "Northrop Grumman",
+      "position": "Sustainment Software Engineer",
+      "url": "https://www.northropgrumman.com",
+      "start_date": "11/10/2025",
       "end_date": "Present",
-      "summary": "Short summary about present job and what the position entails",
+      "summary": "Sustainment of CI/CD pipelines for system testing artifacts, using tools such as cmake, make, Python, Bash, and Jenkins, and system test cases and test execution",
       "highlights": [
-        "First Duty of Current Job",
-        "Second Duty of Current Job",
-        "Third Duty of Current Job"
+        "DevOps/Pipeline engineering",
+        "VxWorks source builds & image projects creation",
+        "Engineering Dry Runs",
+        "Software Qualification Testing"
       ]
     },
     {
-      "company": "Previous Job",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous job and what that position entailed",
+      "company": "2020 Companies",
+      "position": "Samsung Experience Consultant",
+      "url": "https://www.2020companies.com",
+      "start_date": "02/18/2023",
+      "end_date": "10/31/2026",
+      "summary": "Retail experience consultant for customer sales during product launches and peak customer traffic.",
       "highlights": [
-        "First Duty of Previous Job",
-        "Second Duty of Previous Job",
-        "Third Duty of Previous Job"
+        "Product launch sales goals",
+        "Planogram compliance",
+        "Retail associate training"
       ]
     }
   ],
   "projects": [
     {
-      "title": "My First Project",
-      "summary": "Short summary about my first project",
-      "url": "https://sample.com",
+      "title": "Social Media App",
+      "summary": "Social media app made with batteries included framework Django.",
+      "url": "https://www.github.com/jaredthecarrot/swe-social-media-app",
       "highlights": [
-        "First Highlight of Project One",
-        "Second Highlight of Project One",
-        "Third Highlight of Project One"
+        "Login Authentication",
+        "Social messages and direct messaging",
+        "Concurrent user requests"
       ],
       "images": [
         {
@@ -78,123 +80,76 @@
           "caption": "Image Caption 3"
         }
       ]
-    },
-    {
-      "title": "My Second Project",
-      "summary": "Short summary about my second project",
-      "url": "https://sample.com",
-      "highlights": [
-        "First Highlight of Project Two",
-        "Second Highlight of Project Two",
-        "Third Highlight of Project Two"
-      ],
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=4",
-          "caption": "Image Caption 4"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=5",
-          "caption": "Image Caption 5"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=6",
-          "caption": "Image Caption 6"
-        }
-      ]
-    }
-  ],
-  "volunteer_experience": [
-    {
-      "organization": "Latest Organization",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
-      "end_date": "Present",
-      "summary": "Short summary about present volunteer work",
-      "highlights": [
-        "First Duty of Current Organization",
-        "Second Duty of Current Organization",
-        "Third Duty of Current Organization"
-      ]
-    },
-    {
-      "organization": "Previous Organization",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous volunteer work",
-      "highlights": [
-        "First Duty of Previous Organization",
-        "Second Duty of Previous Organization",
-        "Third Duty of Previous Organization"
-      ]
     }
   ],
   "education": [
     {
-      "institution": "Institution One",
-      "location": "Institution One Location",
-      "url": "https://sample.com",
+      "institution": "Texas A&M International University",
+      "location": "Laredo, TX, United States",
+      "url": "https://www.tamiu.edu",
       "degrees": [
-        "Master of Science in Computer Science",
-        "Minor in Mathematics"
+        "Bachelor of Science in Computer Engineering"
       ],
-      "honors": ["Outstanding Student Award", "Dean's List"],
+      "honors": ["Magna Cum Laude"],
       "gpa_cumulative": "3.5",
-      "gpa_major": "4.0",
-      "graduation_date": "01/01/2005"
-    },
-    {
-      "institution": "Institution Two",
-      "location": "Institution Two Location",
-      "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Physics"],
-      "honors": ["Scholarship Recipient"],
-      "gpa_cumulative": "3.2",
-      "gpa_major": "3.9",
-      "graduation_date": "01/01/2000"
+      "gpa_major": "3.8",
+      "graduation_date": "05/15/2025"
     }
   ],
   "skills": [
     {
-      "name": "My First Skill",
-      "proficiency": 100,
+      "name": "Python",
+      "proficiency": 70,
       "proficiency_label": "Proficiency Level"
     },
     {
-      "name": "My Second Skill",
-      "proficiency": 80,
+      "name": "C",
+      "proficiency": 75,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "Bash",
+      "proficiency": 55,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "Django",
+      "proficiency": 50,
       "proficiency_label": "Proficiency Level"
     }
   ],
   "interests": [
     {
-      "name": "My First Hobby",
-      "summary": "Short summary about my first Hobby",
+      "name": "Guitar",
+      "summary": "Fun to play around",
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=7",
-          "caption": "Image Caption 7"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=8",
-          "caption": "Image Caption 8"
+          "img_path": "https://picsum.photos/id/145/600/338",
+          "caption": "Acoustic guitar headstock"
         }
       ]
     },
     {
-      "name": "My Second Hobby",
-      "summary": "Short summary about my second hobby",
+      "name": "Video games",
+      "summary": "Pretty common",
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=9",
-          "caption": "Image Caption 9"
+          "img_path": "https://picsum.photos/id/96/600/338",
+          "caption": "Video game controller"
+        }
+      ]
+    },
+    {
+      "name": "Syrax",
+      "summary": "My dumpster kitty",
+      "images": [
+        {
+          "img_path": "img/baby-sy.jpg",
+          "caption": "Baby Syrax"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=10",
-          "caption": "Image Caption 10"
+          "img_path": "img/grown-sy.jpg",
+          "caption": "Teen Syrax"
         }
       ]
     }
@@ -202,23 +157,23 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "C2, Native speaker"
     },
     {
-      "language": "American Sign Language",
-      "fluency": "Professional Working Proficiency"
+      "language": "Spanish",
+      "fluency": "A2, Elementary speaker"
     }
   ],
   "references": [
     {
-      "name": "Person One",
-      "relation": "Previous Boss",
-      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
+      "name": "Steffanie Frybarger",
+      "relation": "Field Sales Manager",
+      "reference": "Praised my work ethic during holiday and peak customer hours of the store."
     },
     {
-      "name": "Person Two",
-      "relation": "Previous Coworker",
-      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
+      "name": "Juan Pablo",
+      "relation": "Field Operations Manager",
+      "reference": "Spoke confidently of my dedication towards product launch sales and promotions."
     }
   ]
 }
